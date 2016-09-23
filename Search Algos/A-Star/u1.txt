@@ -1,0 +1,18 @@
+A*
+S
+G
+7
+S B 5
+S A 2
+A D 4
+B G 5
+A C 2
+C D 3
+D G 2
+6
+S 6
+B 3
+D 1
+A 2
+C 1 
+G 0
