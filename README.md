@@ -16,7 +16,7 @@ edge 1 <br />
 edge 2 <br />
 .. <br />
 .. <br />
-<number of heuristic estimate lines <br />
+number of heuristic estimate lines <br />
 heuristic 1 <br />
 heuristic 2 <br />
 .. <br />
