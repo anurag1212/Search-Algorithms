@@ -4,20 +4,20 @@
 - Uniform Cost Search
 - A* Search
 
-search.py combines all, differentiated by <algo name>
+search.py combines all, differentiated by algo_name <br />
 
 Input Format:
 
-algo name
-start state
-goal state
-number of edges
-edge 1
-edge 2
-..
-..
-<number of heuristic estimate lines
-heuristic 1
-heuristic 2
-..
-..
+algo_name <br />
+start state <br />
+goal state <br />
+number of edges <br />
+edge 1 <br />
+edge 2 <br />
+.. <br />
+.. <br />
+<number of heuristic estimate lines <br />
+heuristic 1 <br />
+heuristic 2 <br />
+.. <br />
+.. <br />
